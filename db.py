@@ -6,7 +6,7 @@ from dataClass import *
 # // 위도(latitude) 1km = 0.0091
 # // 500m = 0.0091 / 2
 # // 경도(longitude) 1km = 0.0113
-# // 500m = 0.0113 / 2
+# // 500m = 0.0113 / 2 
 
 class DB:
     def __init__(self):
